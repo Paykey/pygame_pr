@@ -1,2 +1,4 @@
 # pygame_pr
-연습용
+
+Practice
+Language: Python

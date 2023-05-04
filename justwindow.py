@@ -5,7 +5,7 @@ import pygame
 from pygame.locals import QUIT
 
 pygame.init()
-SURFACE = pygame.display.set_mode((1280, 720))
+SURFACE = pygame.display.set_mode((1200, 800)
 pygame.display.set_caption("Just Window")
 
 

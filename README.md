@@ -1,5 +1,5 @@
 # pygame_pr
 
 Practice
-Language: Python
-Mario type game 
+///Language: Python
+///Mario type game 
